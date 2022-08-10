@@ -1,0 +1,1 @@
+{"name":"Local: TVDISC","url":"c:\\Users\\anshu\\Competitive Program\\STARTER51\\TVDISC.cpp","tests":[{"id":1660150809317,"input":"3\n85 75 35 20\n100 99 0 0\n30 40 0 10","output":"First\nSecond\nAny"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\anshu\\Competitive Program\\STARTER51\\TVDISC.cpp","group":"local","local":true}
