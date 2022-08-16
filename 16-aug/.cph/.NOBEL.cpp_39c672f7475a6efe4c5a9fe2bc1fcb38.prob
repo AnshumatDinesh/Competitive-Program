@@ -1,0 +1,1 @@
+{"name":"Local: NOBEL","url":"c:\\Users\\anshu\\Competitive Program\\16-aug\\NOBEL.cpp","tests":[{"id":1660647633482,"input":"3\n4 4\n1 2 3 4\n5 4\n4 2 1 1 1\n4 4\n4 4 4 4","output":"No\nYes\nYes"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\anshu\\Competitive Program\\16-aug\\NOBEL.cpp","group":"local","local":true}
